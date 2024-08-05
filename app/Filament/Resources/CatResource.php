@@ -26,7 +26,7 @@ class CatResource extends Resource
     {
         return $form
             ->schema([
-                TextInput::make('name'),
+           
             ]);
     }
 
